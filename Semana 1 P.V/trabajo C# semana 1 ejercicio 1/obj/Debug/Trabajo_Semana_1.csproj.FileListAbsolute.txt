@@ -1,0 +1,22 @@
+C:\Users\rannd\OneDrive\Escritorio\gank definitivo\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.exe.config
+C:\Users\rannd\OneDrive\Escritorio\gank definitivo\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.exe
+C:\Users\rannd\OneDrive\Escritorio\gank definitivo\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.pdb
+C:\Users\rannd\OneDrive\Escritorio\gank definitivo\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\Trabajo_Semana_1.csproj.AssemblyReference.cache
+C:\Users\rannd\OneDrive\Escritorio\gank definitivo\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.exe.config
+C:\Users\rannd\OneDrive\Escritorio\gank definitivo\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\Trabajo_Semana_1.Form1.resources
+C:\Users\rannd\OneDrive\Escritorio\gank definitivo\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo_C__semana_1_ejercicio_1.Properties.Resources.resources
+C:\Users\rannd\OneDrive\Escritorio\gank definitivo\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\Trabajo_Semana_1.csproj.GenerateResource.cache
+C:\Users\rannd\OneDrive\Escritorio\gank definitivo\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\Trabajo_Semana_1.csproj.CoreCompileInputs.cache
+C:\Users\rannd\OneDrive\Escritorio\gank definitivo\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.exe
+C:\Users\rannd\OneDrive\Escritorio\gank definitivo\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.pdb
+C:\Users\rannd\OneDrive\Escritorio\Proyectos P.V\Proyectos de P.V\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.exe.config
+C:\Users\rannd\OneDrive\Escritorio\Proyectos P.V\Proyectos de P.V\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.exe
+C:\Users\rannd\OneDrive\Escritorio\Proyectos P.V\Proyectos de P.V\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.pdb
+C:\Users\rannd\OneDrive\Escritorio\Proyectos P.V\Proyectos de P.V\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\Trabajo_Semana_1.csproj.AssemblyReference.cache
+C:\Users\rannd\OneDrive\Escritorio\Proyectos P.V\Proyectos de P.V\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.exe.config
+C:\Users\rannd\OneDrive\Escritorio\Proyectos P.V\Proyectos de P.V\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\Trabajo_Semana_1.Form1.resources
+C:\Users\rannd\OneDrive\Escritorio\Proyectos P.V\Proyectos de P.V\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo_C__semana_1_ejercicio_1.Properties.Resources.resources
+C:\Users\rannd\OneDrive\Escritorio\Proyectos P.V\Proyectos de P.V\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\Trabajo_Semana_1.csproj.GenerateResource.cache
+C:\Users\rannd\OneDrive\Escritorio\Proyectos P.V\Proyectos de P.V\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\Trabajo_Semana_1.csproj.CoreCompileInputs.cache
+C:\Users\rannd\OneDrive\Escritorio\Proyectos P.V\Proyectos de P.V\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.exe
+C:\Users\rannd\OneDrive\Escritorio\Proyectos P.V\Proyectos de P.V\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.pdb
